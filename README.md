@@ -1,0 +1,2 @@
+# snake
+projekt zaliczeniowy-snake
