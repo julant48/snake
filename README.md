@@ -1,2 +1,2 @@
-# snake
+# labirynt
 projekt zaliczeniowy-snake
